@@ -27,4 +27,4 @@ We're working on expanding this FAQ with more content, including questions from 
 * [zkBNB Wallet](https://test.zkbnbchain.org/wallet)
 * [zkBNB Marketplace](https://test.zkbnbchain.org/market)
 * [zkBNB Block Explorer](https://explorer-test.zkbnbchain.org/) 
-* zkBNB Help Center (Discord, Telegram, etc) (_**Coming Soon**_⏰)
+* zkBNB Help Center ([Discord](https://discord.com/invite/bnbchain))
