@@ -1,4 +1,4 @@
-# BNB Greenfield Official Documentation
+# zkBNB Official Documentation
 
 ## Overview
 The zkBNB is an infrastructure for developers that helps them to build large scale BSC-based apps with higher throughput and much lower or even zero transaction fees. This is the GitHub repo of the official documentation and API refernce for zkBNB. This app is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator. 
