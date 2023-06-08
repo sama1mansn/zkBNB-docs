@@ -19,7 +19,7 @@ zkBNB is a zero-knowledge proof layer 2 chain that targets to provide the NFT an
 
 opBNB is a EVM-compatible layer 2 chain that targets to provide more flexibility to applications that want to be a open platform & ecosystem.
 
-|Metrics|ZkBNB|Optimistic Rollup|
+|Metrics|zkBNB|Optimistic Rollup|
 |:----|:----|:----|
 |Mainnet|June, 2023|June/July,2023|
 |Gas Token|BNB|BNB|
@@ -45,7 +45,7 @@ By providing web-based API services, developers can build a new application or e
 
 ## What advantages does zkBNB have over BNB Smart Chain?  
 
-|Metrics|BSC|ZkBNB|
+|Metrics|BSC|zkBNB|
 |:----|:----|:----|
 |Mainnet|Ready|June, 2023|
 |Gas Token|BNB|BNB|
