@@ -6,9 +6,9 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "zkBNB -  Official Documentation",
+  title: "zkBNB - Official Documentation",
   tagline: "A trustless and scaling solution for BNB Smart Chain",
-  url: "https://github.com/bnb-chain/zkBNB-docs",
+  url: "https://github.com/bnb-chain/",
   baseUrl: "/zkBNB-docs/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
