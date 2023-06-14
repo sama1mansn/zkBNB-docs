@@ -3,7 +3,7 @@ title: Gas and Fees FAQs
 ---
 
 ## What is the estimation on the gas fees on the typical native token transfer?
- |**L2 Gas used**|**Price(BNB)**
+| |**L2 Gas used**|**Price(BNB)**
 :-----:|:-----:|:-----:
 Transfer token/NFT|6061|0.00002
 Mint NFT|10000|0.000033
