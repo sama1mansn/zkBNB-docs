@@ -10,7 +10,7 @@ This is a living document and is susceptible to changes. Gas and Fee charges may
 
 
 ## Gas Costs on zkBNB
- |**L2 Gas used**|**Price(BNB)**
+ | |**L2 Gas used**|**Price(BNB)**
 :-----:|:-----:|:-----:
 Transfer token/NFT|6061|0.00002
 Mint NFT|10000|0.000033
