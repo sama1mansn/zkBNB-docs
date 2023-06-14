@@ -32,7 +32,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            "https://github.com/RumeelHussainbnb/zkBNB-docs",
+            "https://github.com/bnb-chain/zkBNB-docs",
           docLayoutComponent: "@theme/DocPage",
           docItemComponent: "@theme/ApiItem" // Derived from docusaurus-theme-openapi
         },
@@ -41,7 +41,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            "https://github.com/RumeelHussainbnb/zkBNB-docs"
+            "https://github.com/bnb-chain/zkBNB-docs"
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css")
