@@ -8,7 +8,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 const config = {
   title: "zkBNB - Official Documentation",
   tagline: "A trustless and scaling solution for BNB Smart Chain",
-  url: "https://github.com/bnb-chain/",
+  url: "https://bnb-chain.github.io/",
   baseUrl: "/zkBNB-docs/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
