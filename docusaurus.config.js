@@ -8,7 +8,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 const config = {
   title: "zkBNB -  Official Documentation",
   tagline: "A trustless and scaling solution for BNB Smart Chain",
-  url: "https://rumeelhussainbnb.github.io/",
+  url: "https://github.com/bnb-chain/zkBNB-docs",
   baseUrl: "/zkBNB-docs/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
@@ -16,8 +16,8 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: "RumeelHussainbnb", // Usually your GitHub org/user name.
-  projectName: "zkbnb-docs", // Usually your repo name. 
+  organizationName: "bnb-chain", // Usually your GitHub org/user name.
+  projectName: "zkBNB-docs", // Usually your repo name. 
   deploymentBranch: 'gh-pages',
   //trailingSlash: false,
 
@@ -85,7 +85,7 @@ const config = {
             to: "/docs/faqs/zkbnb-faqs"
           },
           {
-            href: 'https://github.com/RumeelHussainbnb/zkBNB-docs',
+            href: 'https://github.com/bnb-chain/zkBNB-docs',
             position: 'right',
             className: 'header-github-link',
             'aria-label': 'GitHub repository',
