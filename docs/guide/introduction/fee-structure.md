@@ -37,7 +37,7 @@ This different transactions that can take palce on zkBNB are:
 
 In the table given below, we list the averge gas used and price in BNB for each of these transaction types on zkBNB.
 
- |**L2 Gas used**|**Price(BNB)**
+ | |**L2 Gas used**|**Price(BNB)**
 :-----:|:-----:|:-----:
 Transfer token/NFT|6061|0.00002
 Mint NFT|10000|0.000033
