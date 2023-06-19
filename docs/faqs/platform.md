@@ -25,7 +25,7 @@ opBNB is a EVM-compatible layer 2 chain that targets to provide more flexibility
 |Gas Token|BNB|BNB|
 |VM|No|EVM|
 |TPS*|5K (Target in 2023)|5-10K|
-|Gas Fee/Gasless|?|<0.005$|
+|Gas Fee/Gasless|0.006$|<0.005$|
 |Withdraw/Finality|Minutes|7 days|
 |Security|Secure/Elegant Exit|Secure/Elegant Exit|
 |Validators|1|TBD|
@@ -51,7 +51,7 @@ By providing web-based API services, developers can build a new application or e
 |Gas Token|BNB|BNB|
 |VM|EVM|No|
 |TPS*|2.2K (Target 5K in 2023)|5K (Target in 2023)|
-|Gas Fee/Gasless|0.03$|?|
+|Gas Fee/Gasless|0.03$|0.006$|
 |Withdraw/Finality|33 seconds (6 secs after fast finality)|Minutes|
 |Security|Secure|Secure/Elegant Exit|
 |Validators|26 (21 cabinet, 5 candidates (20 soon))|1|
