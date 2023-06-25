@@ -19,7 +19,7 @@ const config = {
   organizationName: "bnb-chain", // Usually your GitHub org/user name.
   projectName: "zkBNB-docs", // Usually your repo name. 
   deploymentBranch: 'gh-pages',
-  //trailingSlash: false,
+  trailingSlash: false,
 
 
   presets: [
