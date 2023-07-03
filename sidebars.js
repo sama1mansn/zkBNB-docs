@@ -93,10 +93,11 @@ const sidebars = {
     },
     {
         type: "category",
-        label: "🎯 Build on zkBNB",
+        label: "🎯 Getting Started",
         collapsible: true,
         collapsed: true,
         items:[
+          "guide/build-on-zkbnb/deposit-to-zkbnb",
           "guide/build-on-zkbnb/resources",
          // "guide/build-on-zkbnb/hardware-reqs",
          // "guide/build-on-zkbnb/software-reqs",
