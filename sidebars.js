@@ -32,6 +32,19 @@ const sidebars = {
     },
     {
       type: "category",
+      label: "🎯 Getting Started",
+      collapsible: true,
+      collapsed: true,
+      items:[
+        "guide/build-on-zkbnb/network-faucet",
+        "guide/build-on-zkbnb/developer-tools",
+       // "guide/build-on-zkbnb/hardware-reqs",
+       // "guide/build-on-zkbnb/software-reqs",
+        {type: 'doc', label:'zkBNB SDKs', id:'sdks/zkbnb-go-sdk/quickstart'},
+      ]
+    },
+    {
+      type: "category",
       label: "🕶️ Core Concepts",
       collapsible: true,
       collapsed: true,
@@ -90,19 +103,6 @@ const sidebars = {
           ]
         }
       ]
-    },
-    {
-        type: "category",
-        label: "🎯 Getting Started",
-        collapsible: true,
-        collapsed: true,
-        items:[
-          "guide/build-on-zkbnb/deposit-to-zkbnb",
-          "guide/build-on-zkbnb/resources",
-         // "guide/build-on-zkbnb/hardware-reqs",
-         // "guide/build-on-zkbnb/software-reqs",
-          {type: 'doc', label:'zkBNB SDKs', id:'sdks/zkbnb-go-sdk/quickstart'},
-        ]
     },
     {
       type: "category",
