@@ -15,7 +15,7 @@ title: Resources
 
 ## Testnet Faucet
 
-1. **Set BSC testnet:** Use BSC testnet, get test BNB from the faucet, and follow this [guide](https://academy.binance.com/en/articles/connecting-metamask-to-binance-smart-chain) for settings.
+1. **Set BSC testnet:** Use BSC testnet, get test BNB from the faucet, and follow this [guide](https://docs.bnbchain.org/docs/bsc-faucet) for settings.
 2. **Connect Wallet:** Connect your MetaMask or other wallets to zkBNB Wallet Web Portal.
 3. **Choose BSC testnet:** Change network to BSC testnet, and enjoy your zkBNB life.
 
