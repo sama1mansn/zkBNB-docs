@@ -19,33 +19,19 @@ const sidebars = {
   guideSidebar:[
     {
       type: "category",
-      label: "📜 Introduction",
+      label: "Introduction",
       link: {type: 'doc', id: 'guide/introduction/getting-started'},
       collapsible: true,
       collapsed: true,
       items:[
         "guide/introduction/overview",
         "guide/introduction/tech-zkBNB",
-        //"guide/introduction/usage-zkBNB",
         "guide/introduction/fee-structure"
       ],
     },
     {
       type: "category",
-      label: "🎯 Getting Started",
-      collapsible: true,
-      collapsed: true,
-      items:[
-        "guide/build-on-zkbnb/network-faucet",
-        "guide/build-on-zkbnb/developer-tools",
-       // "guide/build-on-zkbnb/hardware-reqs",
-       // "guide/build-on-zkbnb/software-reqs",
-        {type: 'doc', label:'zkBNB SDKs', id:'sdks/zkbnb-go-sdk/quickstart'},
-      ]
-    },
-    {
-      type: "category",
-      label: "🕶️ Core Concepts",
+      label: "Core Concepts",
       collapsible: true,
       collapsed: true,
       items:[
@@ -56,7 +42,7 @@ const sidebars = {
     },
     {
       type: "category",
-      label: "📦 Storage",
+      label: "Storage",
       collapsible: true,
       collapsed: true,
       items:[
@@ -65,7 +51,7 @@ const sidebars = {
     },
     {
       type: "category",
-      label: "💰 Economics",
+      label: "Economics",
       collapsible: true,
       collapsed: true,
       items:[
@@ -75,13 +61,13 @@ const sidebars = {
     },
     {
       type: "category",
-      label: "💼 Products",
+      label: "Products",
       collapsible: true,
       collapsed: true,
       items:[
         {
           type: "category",
-          label: "💳 zkBNB Wallet",
+          label: "zkBNB Wallet",
           collapsible: true,
           collapsed: true,
           items:[
@@ -92,7 +78,7 @@ const sidebars = {
         },
         {
           type: "category",
-          label: "🏬 zkBNB Marketplace",
+          label: "zkBNB Marketplace",
           collapsible: true,
           collapsed: true,
           items:[
@@ -105,8 +91,20 @@ const sidebars = {
       ]
     },
     {
+        type: "category",
+        label: "Build on zkBNB",
+        collapsible: true,
+        collapsed: true,
+        items:[
+          "guide/build-on-zkbnb/resources",
+         // "guide/build-on-zkbnb/hardware-reqs",
+         // "guide/build-on-zkbnb/software-reqs",
+          {type: 'doc', label:'zkBNB SDKs', id:'sdks/zkbnb-go-sdk/quickstart'},
+        ]
+    },
+    {
       type: "category",
-      label: "👩‍🏫 Tutorials",
+      label: "Tutorials",
       collapsible: true,
       collapsed: true,
       items:[
@@ -118,7 +116,7 @@ const sidebars = {
     },
     {
       type: "category",
-      label: "🧑‍🔧 Troubleshooting",
+      label: "Troubleshooting",
       collapsible: true,
       collapsed: true,
       items:[
@@ -126,13 +124,13 @@ const sidebars = {
         "faqs/zkbnb-faqs"
       ]
     },
-    {type:'doc', id:'guide/contact-us', label: "☎️ Contact Us"},
+    {type:'doc', id:'guide/contact-us', label: "Contact Us"},
   ],
 
   sdkSidebar:[
     {
       type: "category",
-      label: "🧮 zkBNB SDKs",
+      label: "zkBNB SDKs",
       link: {
         type: 'generated-index',
         title: 'zkBNB SDKs',
@@ -153,7 +151,7 @@ const sidebars = {
     },
     {
       type: 'category',
-      label: "👩‍🏫 Tutorials",
+      label: "Tutorials",
       items:[
         "sdks/tutorials/reactjs-integration-example/reactjs-integration-example"
       ]
@@ -163,7 +161,7 @@ const sidebars = {
   faqSidebar:[
     {
       type:"category", 
-      label: "🧙 FAQs",
+      label: "FAQs",
       link: {type: 'doc', id: 'faqs/zkbnb-faqs'},
       collapsible: true,
       collapsed: true,
@@ -182,7 +180,7 @@ const sidebars = {
   openApiSidebar: [
     {
       type: "category",
-      label: "💻 zkBNB API",
+      label: "zkBNB API",
       link: {
         type: "generated-index",
         title: "zkBNB API",
