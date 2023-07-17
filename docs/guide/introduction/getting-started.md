@@ -4,13 +4,13 @@ title: Guide
 
 # 👨‍💻 Getting Started 
 
-The zkBNB is an infrastructure for developers that helps them to build large scale BSC-based apps with higher throughput and much lower or even zero transaction fees.
+The zkBNB is an infrastructure for developers that helps them to build large-scale BSC-based apps with higher throughput and much lower or even zero transaction fees.
 
-zkBNB is built on zk-Rollup architecture. ZkBNB bundle (or "roll-up") hundreds of transactions off-chain and generates cryptographic proof. These proofs can come in the form of SNARKs (succinct non-interactive argument of knowledge) which can prove the validity of every single transaction in the Rollup Block.
+zkBNB is built on zk-Rollup architecture. zkBNB bundles (or "roll-up") hundreds of transactions off-chain and generates cryptographic proof. These proofs can come in the form of SNARKs (succinct non-interactive argument of knowledge) which can prove the validity of every single transaction in the Rollup Block.
 
-zkBNB focuses on straightforward token operations and built-in marketplaces for Gaming and Social use cases. It serves as a scalability solution for the BNB Smart Chain by bundling multiple transactions into a single transaction, reducing costs for on-chain transactions. The Zero Knowledge proof system used in zkBNB ensures a much faster finality time of the L2 transactions, that helps improve the user experience. 
+zkBNB focuses on straightforward token operations and built-in marketplaces for Gaming and Social use cases. It serves as a scalability solution for the BNB Smart Chain by bundling multiple transactions into a single transaction, reducing costs for on-chain transactions. The Zero Knowledge proof system used in zkBNB ensures a much faster finality time of the L2 transactions, which helps improve the user experience. 
 
-![banner](https://github.com/bnb-chain/zkbnb/raw/master/docs/assets/banner.png)
+![banner](../../../static/img/zkBNB-banner.jpg)
 
 ## 📔 Learn about zkBNB
 
@@ -28,10 +28,9 @@ Get familiar with the zkBNB and explore its main modules.
 
 ## 👨‍🔧 Building Dapps on zkBNB
 
-Start building dapps to create value based on the data assets and its related economy.
+Start building dapps to create value based on the data assets and their related economy.
 - Fund your zkBNB Wallet (_**Coming Soon**_⏰)
 - Build a dapp with zkBNB API (_**Coming Soon**_⏰)
-
 
 ## 🙋‍♀️ Help & Support 
 Check out the zkBNB Developer Discord for technical support. (**_TBA_** 📢)
